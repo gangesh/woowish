@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WC User Collections
+Plugin Name: Wishlist for Woocommerce
 Plugin URI: #
 Description: Let user create a collection/collections of products and inquire from merchant or share it with friends.
 Version: 1.0
